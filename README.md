@@ -76,4 +76,5 @@ Customer Satisfaction: Monitor customer and driver ratings to identify service q
 Cancellation Management: Analyze the root causes of cancellations (both customer and driver) to minimize them.
 
 ### 6.	Screenshots / Demos
-📊 Overall Section
+📊 Overall Section Preview
+(https://github.com/pranavapawar/Ola-Dashboard/blob/main/ola%201.png)
