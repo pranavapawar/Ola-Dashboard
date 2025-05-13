@@ -22,7 +22,7 @@ Data includes ride details such as booking status, vehicle type, payment method,
 
 ### 5.	Features / Highlights
 
-•	Business Problem
+•	Business Problem<br>
 Ola, a leading ride-hailing service, needs a real-time, visually intuitive tool to monitor ride bookings, cancellations, revenue, and customer/driver performance. This helps in identifying operational inefficiencies and improving customer satisfaction.
 
 Key questions such as:
@@ -37,39 +37,39 @@ Key questions such as:
 9. Driver Ratings Distribution
 10. Customer vs. Driver Ratings
 
-•	Goal of the Dashboard
+•	Goal of the Dashboard<br>
 To provide a comprehensive, real-time view of ride performance, enabling better decision-making and performance tracking for Ola’s management team.
 
-•	Walkthrough of Key Visuals
-📊 Overall Section
+•	Walkthrough of Key Visuals<br>
+📊 Overall Section<br>
 Total Bookings: Displaying total rides booked within the selected date range.
 Total Booking Value: The total revenue generated from all completed bookings.
 Booking Status Breakdown (Pie Chart): A visual representation of booking outcomes (success, canceled by driver, customer, etc.).
 Ride Volume Over Time (Line Chart): Tracking the daily booking count for trend analysis.
 
-🚗 Vehicle Type Section
+🚗 Vehicle Type Section<br>
 A detailed table showing different vehicle types (Prime Sedan, Prime SUV, Mini, Auto, Bike, E-Bike) along with:
 Total Booking Value
 Successful Booking Value
 Average Distance Travelled
 Total Distance Travelled
 
-💰 Revenue Section
+💰 Revenue Section<br>
 Revenue by Payment Method (Bar Chart): Distribution of revenue across various payment modes (Cash, UPI, Credit Card, Debit Card).
 Top 5 Customers: Highlighting top customers by total booking value.
 Ride Distance Distribution (Bar Chart): Monitoring ride distance distribution per day for service efficiency.
 
-❌ Cancellation Section
+❌ Cancellation Section<br>
 Total, Succeeded, and Canceled Bookings: Key metrics for overall ride performance.
 Cancellation Rate: Calculated as a percentage of total bookings.
 Cancelled Rides by Customers (Pie Chart): Analyzing reasons for customer cancellations (Driver not moving, Change of plans, etc.).
 Cancelled Rides by Drivers (Pie Chart): Visualizing driver-specific cancellation reasons (Personal issues, Customer behavior, etc.).
 
-⭐ Ratings Section
+⭐ Ratings Section<br>
 Driver Ratings: Average driver ratings by vehicle type (Prime Sedan, Auto, Bike, etc.).
 Customer Ratings: Average customer ratings by vehicle type, allowing a clear view of customer satisfaction.
 
-•	Business Impact & Insights
+•	Business Impact & Insights<br>
 Operational Efficiency: Quickly identify which vehicle types perform best and optimize fleet management.
 Revenue Optimization: Track top customers and popular payment methods to enhance financial strategies.
 Customer Satisfaction: Monitor customer and driver ratings to identify service quality issues.
