@@ -1,6 +1,6 @@
 # Ola-Dashboard
 ### 1.	Project Title 
-🚖 Ola Ride Analytics Dashboard:
+🚖 Ola Ride Analytics Dashboard:<br>
 An interactive Power BI dashboard for comprehensive analysis of Ola rides, covering booking trends, revenue, vehicle types, cancellations, and customer/driver ratings.
 
 ### 2.	Short Description
@@ -42,39 +42,38 @@ To provide a comprehensive, real-time view of ride performance, enabling better 
 
 •	Walkthrough of Key Visuals<br>
 📊 Overall Section<br>
-Total Bookings: Displaying total rides booked within the selected date range.
-Total Booking Value: The total revenue generated from all completed bookings.
-Booking Status Breakdown (Pie Chart): A visual representation of booking outcomes (success, canceled by driver, customer, etc.).
-Ride Volume Over Time (Line Chart): Tracking the daily booking count for trend analysis.
+Total Bookings: Displaying total rides booked within the selected date range.<br>
+Total Booking Value: The total revenue generated from all completed bookings.<br>
+Booking Status Breakdown (Pie Chart): A visual representation of booking outcomes (success, canceled by driver, customer, etc.).<br>
+Ride Volume Over Time (Line Chart): Tracking the daily booking count for trend analysis.<br>
 
 🚗 Vehicle Type Section<br>
-A detailed table showing different vehicle types (Prime Sedan, Prime SUV, Mini, Auto, Bike, E-Bike) along with:
-Total Booking Value
-Successful Booking Value
-Average Distance Travelled
-Total Distance Travelled
+A detailed table showing different vehicle types (Prime Sedan, Prime SUV, Mini, Auto, Bike, E-Bike) along with:<br>
+Total Booking Value<br>
+Successful Booking Value<br>
+Average Distance Travelled<br>
+Total Distance Travelled<br>
 
 💰 Revenue Section<br>
-Revenue by Payment Method (Bar Chart): Distribution of revenue across various payment modes (Cash, UPI, Credit Card, Debit Card).
-Top 5 Customers: Highlighting top customers by total booking value.
-Ride Distance Distribution (Bar Chart): Monitoring ride distance distribution per day for service efficiency.
+Revenue by Payment Method (Bar Chart): Distribution of revenue across various payment modes (Cash, UPI, Credit Card, Debit Card).<br>
+Top 5 Customers: Highlighting top customers by total booking value.<br>
+Ride Distance Distribution (Bar Chart): Monitoring ride distance distribution per day for service efficiency.<br>
 
 ❌ Cancellation Section<br>
-Total, Succeeded, and Canceled Bookings: Key metrics for overall ride performance.
-Cancellation Rate: Calculated as a percentage of total bookings.
-Cancelled Rides by Customers (Pie Chart): Analyzing reasons for customer cancellations (Driver not moving, Change of plans, etc.).
-Cancelled Rides by Drivers (Pie Chart): Visualizing driver-specific cancellation reasons (Personal issues, Customer behavior, etc.).
+Total, Succeeded, and Canceled Bookings: Key metrics for overall ride performance.<br>
+Cancellation Rate: Calculated as a percentage of total bookings.<br>
+Cancelled Rides by Customers (Pie Chart): Analyzing reasons for customer cancellations (Driver not moving, Change of plans, etc.).<br>
+Cancelled Rides by Drivers (Pie Chart): Visualizing driver-specific cancellation reasons (Personal issues, Customer behavior, etc.).<br>
 
 ⭐ Ratings Section<br>
-Driver Ratings: Average driver ratings by vehicle type (Prime Sedan, Auto, Bike, etc.).
-Customer Ratings: Average customer ratings by vehicle type, allowing a clear view of customer satisfaction.
+Driver Ratings: Average driver ratings by vehicle type (Prime Sedan, Auto, Bike, etc.).<br>
+Customer Ratings: Average customer ratings by vehicle type, allowing a clear view of customer satisfaction.<br>
 
 •	Business Impact & Insights<br>
-Operational Efficiency: Quickly identify which vehicle types perform best and optimize fleet management.
-Revenue Optimization: Track top customers and popular payment methods to enhance financial strategies.
-Customer Satisfaction: Monitor customer and driver ratings to identify service quality issues.
-Cancellation Management: Analyze the root causes of cancellations (both customer and driver) to minimize them.
+Operational Efficiency: Quickly identify which vehicle types perform best and optimize fleet management.<br>
+Revenue Optimization: Track top customers and popular payment methods to enhance financial strategies.<br>
+Customer Satisfaction: Monitor customer and driver ratings to identify service quality issues.<br>
+Cancellation Management: Analyze the root causes of cancellations (both customer and driver) to minimize them.<br>
 
 ### 6.	Screenshots / Demos
-📊 Overall Section Preview
-(https://github.com/pranavapawar/Ola-Dashboard/blob/main/ola%201.png)
+![📊 Overall Section Preview](https://github.com/pranavapawar/Ola-Dashboard/blob/main/ola%201.png)
